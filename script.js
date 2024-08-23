@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Exploração e Entusiasmo",
-                afirmacao: " Você fica empolgado com a ideia de explorar o aplicativo Cultura Brasileira 2.0 e decide mergulhar profundamente em suas funcionalidades. No trabalho, você destaca como o aplicativo pode enriquecer a compreensão das diferentes culturas brasileiras, detalha suas características interativas e propõe maneiras de integrar a tecnologia nas aulas para promover uma aprendizagem mais engajada e imersiva.
+                afirmacao: " Você fica empolgado com a ideia de explorar o aplicativo Cultura Brasileira 2.0 e decide mergulhar profundamente em suas funcionalidades. No trabalho, você destaca como o aplicativo pode enriquecer a compreensão das diferentes culturas brasileiras, detalha suas características interativas e propõe maneiras de integrar a tecnologia nas aulas para promover uma aprendizagem mais engajada e imersiva"
             },
             {
                 texto: "Análise Crítica e Reflexão",
@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Otimismo e Potencial Transformador.",
-                afirmacao: "Você argumenta que o aplicativo "Cultura Brasileira 2.0" tem o potencial de transformar a forma como as pessoas exploram e compreendem a cultura brasileira. Destaca que, ao oferecer uma experiência imersiva e interativa, o aplicativo pode democratizar o acesso ao conhecimento cultural e engajar um público mais amplo. Você prevê um futuro onde a tecnologia como essa poderá enriquecer a educação e a apreciação cultural de maneiras inovadoras."
+                afirmacao: "Você argumenta que o aplicativo Cultura Brasileira 2.0 tem o potencial de transformar a forma como as pessoas exploram e compreendem a cultura brasileira. Destaca que, ao oferecer uma experiência imersiva e interativa, o aplicativo pode democratizar o acesso ao conhecimento cultural e engajar um público mais amplo. Você prevê um futuro onde a tecnologia como essa poderá enriquecer a educação e a apreciação cultural de maneiras inovadoras."
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
