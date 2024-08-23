@@ -6,37 +6,37 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Após uma tarde explorando o mercado local, você encontra um novo aplicativo que oferece uma imersão completa na cultura de diferentes regiões do Brasil, incluindo histórias, músicas e tradições. Qual seria sua primeira reação?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Curiosidade e Exploração",
+                afirmacao: "Você fica intrigado com a ideia e decide explorar o aplicativo imediatamente."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Ceticismo e Verificação",
+                afirmacao: "Você se sente um pouco cético em relação à precisão e autenticidade das informações fornecidas pelo aplicativo. Antes de se envolver mais profundamente, você decide verificar a fonte do conteúdo e comparar com outras fontes confiáveis para garantir que o que está aprendendo é realmente fiel à cultura brasileira."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: " Com a descoberta deste aplicativo, chamado Cultura brasileira 2.0 e uma professora de tecnologias da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso desse aplicativo,Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Exploração e Entusiasmo",
+                afirmacao: " Você fica empolgado com a ideia de explorar o aplicativo Cultura Brasileira 2.0 e decide mergulhar profundamente em suas funcionalidades. No trabalho, você destaca como o aplicativo pode enriquecer a compreensão das diferentes culturas brasileiras, detalha suas características interativas e propõe maneiras de integrar a tecnologia nas aulas para promover uma aprendizagem mais engajada e imersiva.
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Análise Crítica e Reflexão",
+                afirmacao: "Você decide adotar uma abordagem crítica e analítica em relação ao aplicativo Cultura Brasileira 2.0. Pesquisa não apenas os recursos e benefícios oferecidos, mas também examina possíveis limitações, como a precisão das informações e a dependência da tecnologia para o ensino cultural. Seu trabalho inclui sugestões sobre como usar o aplicativo de forma equilibrada e como complementar a tecnologia com métodos de ensino tradicionais."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a aplicativo impacta o Modo como as pessoas prevem esse aplicativo no futuro, Nesse debate, como você se posiciona?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Otimismo e Potencial Transformador.",
+                afirmacao: "Você argumenta que o aplicativo "Cultura Brasileira 2.0" tem o potencial de transformar a forma como as pessoas exploram e compreendem a cultura brasileira. Destaca que, ao oferecer uma experiência imersiva e interativa, o aplicativo pode democratizar o acesso ao conhecimento cultural e engajar um público mais amplo. Você prevê um futuro onde a tecnologia como essa poderá enriquecer a educação e a apreciação cultural de maneiras inovadoras."
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
